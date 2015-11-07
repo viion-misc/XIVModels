@@ -1,2 +1,6 @@
-# XIVModels
-This repository holds the original source code for what was XIVModels.com, it is no longer in development and intended for research.
+xiv_models
+==========
+
+This repository is an archive to serve as research for what was once XIVModels.com
+
+It would require knowledge of using https://github.com/ahom/ffxiv_reverse to get working.
