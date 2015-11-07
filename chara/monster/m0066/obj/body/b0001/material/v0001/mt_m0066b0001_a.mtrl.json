@@ -1,0 +1,9 @@
+{
+    "name": "chara/monster/m0066/obj/body/b0001/material/v0001/mt_m0066b0001_a.mtrl",
+    "components": {
+        "diffuse": "chara/monster/m0066/obj/body/b0001/texture/v01_m0066b0001_d.tex",
+        "normal": "chara/monster/m0066/obj/body/b0001/texture/v01_m0066b0001_n.tex",
+        "specular": "chara/monster/m0066/obj/body/b0001/texture/v01_m0066b0001_s.tex",
+        "ambient": "chara/monster/m0066/obj/body/b0001/material/v0001/-v0001_m0066b0001_a.tex"
+    }
+}
